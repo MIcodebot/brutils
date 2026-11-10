@@ -3,7 +3,7 @@
 Biblioteca Java **sem dependências** para validar, formatar e gerar documentos brasileiros:
 **CPF**, **CNPJ** (inclusive o novo **CNPJ alfanumérico**) e **CEP**.
 
-![CI](https://github.com/SEU_USUARIO/brutils/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/MICODEBOT/brutils/actions/workflows/ci.yml/badge.svg)
 
 ## Requisitos
 
